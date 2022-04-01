@@ -1,5 +1,6 @@
 # devops-netology-
 Gleb Starodubtsev
+new line
 
 Игнорирование скрытой папка терраформ
 Игонирование всех файлов с раширением: *.tfstate, *.tfstate.*, .tfvars
