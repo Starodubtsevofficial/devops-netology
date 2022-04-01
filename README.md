@@ -1,6 +1,7 @@
 # devops-netology-
 Gleb Starodubtsev
 new line
+new line witch IDE PyCharm
 
 Игнорирование скрытой папка терраформ
 Игонирование всех файлов с раширением: *.tfstate, *.tfstate.*, .tfvars
